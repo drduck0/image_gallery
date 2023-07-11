@@ -1,5 +1,6 @@
 import ImageFeeder from './ImageFeeder';
 import ImageData from './ImageData';
+import Header from './Header'
 
 const App = () => {
   return (

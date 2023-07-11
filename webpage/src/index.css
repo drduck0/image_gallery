@@ -20,6 +20,7 @@ code {
   -moz-column-width: 33%;
   column-width: 33%;
   padding: 0 12px;
+  margin-top: 50px;
 }
 
 .gallery .pics{
@@ -101,3 +102,4 @@ code {
   cursor: pointer;
   color: white;
 }
+
