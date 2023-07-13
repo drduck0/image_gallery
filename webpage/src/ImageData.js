@@ -3,6 +3,7 @@ import CloseIcon from '@mui/icons-material/Close';
 
 const ImageData = () => {
 
+
     const [imagedata, setImageData] = useState([])
     const [model, setModel] = useState(false)
     const [tempimg, setTempImg] = useState('')
